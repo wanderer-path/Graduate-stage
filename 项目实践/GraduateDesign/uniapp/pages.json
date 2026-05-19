@@ -1,0 +1,19 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "物联网监控",
+				"navigationBarBackgroundColor": "#667eea",
+				"navigationBarTextStyle": "white"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "物联网监控",
+		"navigationBarBackgroundColor": "#667eea",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}
