@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="assets/icon.png" alt="" width="64" style="vertical-align: middle;">&nbsp; Graduate Note</h1>
 
 <p align="center">
@@ -27,6 +28,8 @@ Comprehensive Record of Graduate Studies, Research & Growth</strong><br>
 
 > 持续积累，定期更新中…
 
+- **2026-05-18** 🚀 新增数学基础笔记（线性代数、概率论与统计、微积分与自动微分、优化理论、信息论等）与机器学习（西瓜书）前四章笔记
+- **2026-05-09** 🚀 Pytorch中的张量学习，学的时黑马程序员课程的前两天内容
 - **2026-05-08** 🚀 添加 Pytorch 学习笔记、Titanic 项目总结、高效能人士的七个习惯读书笔记
 - **2026-05-07** 🚀 仓库初始化，建立四大模块框架：科研记录、学习笔记、项目实践、个人成长
 

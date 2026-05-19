@@ -1,8 +1,13 @@
 ### Obsidian ###
 .obsidian
+.claudian
 
 ### Open Code ###
 .sisyphus
 
 ### PyCharm ###
 .idea
+
+### claude ###
+.claude
+
