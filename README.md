@@ -28,6 +28,7 @@ Comprehensive Record of Graduate Studies, Research & Growth</strong><br>
 
 > 持续积累，定期更新中…
 
+- **2026-07-01** 🚀 跟随[PyTorch官网](https://pytorch.org/)快速入门，李沐《动手学深度学习》：逻辑回归、感知机、卷积神经网络，实战kaggle项目：[预测房价](https://www.kaggle.com/c/california-house-prices)
 - **2026-06-19** 🚀 机器学习（西瓜书）计算学习理论、半监督学习、概率图模型、规则学习、强化学习
 - **2026-06-11** 🚀 机器学习（西瓜书）贝叶斯分类、集成学习、聚类、降维与度量学习、特征选择与稀疏学习
 - **2026-05-29** 🚀 机器学习（西瓜书）第五章神经网络和第六章支持向量机。线性回归、逻辑回归、BP算法代码实现
