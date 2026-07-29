@@ -28,6 +28,7 @@ Comprehensive Record of Graduate Studies, Research & Growth</strong><br>
 
 > 持续积累，定期更新中…
 
+- **2026-07-29** 🚀 BERT整体架构分析与代码实现，了解MLM和NSP工作原理。学习强化学习，了解Sarsa和Q-learning实现原理。能源管理系统项目继续推进，对无策略、rule_controller、final_ems_rule、DP算法做了测评，并确定出强化学习模型输入输出。
 - **2026-07-19** 🚀 Transformer整体架构分析与代码从零实现，《Attention Is All You Need》阅读。能源管理系统项目开始推进，跑通了模型转换、移植、调用的完成流程，测试了板子可以部署的最大模型。
 - **2026-07-09** 🚀 跟随李沐《动手学深度学习》：计算机视觉、循环神经网络，实战kaggle项目：[CIFAR-10](https://www.kaggle.com/c/cifar-10)
 - **2026-07-01** 🚀 跟随[PyTorch官网](https://pytorch.org/)快速入门，李沐《动手学深度学习》：逻辑回归、感知机、卷积神经网络，实战kaggle项目：[预测房价](https://www.kaggle.com/c/california-house-prices)
