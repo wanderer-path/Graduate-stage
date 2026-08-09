@@ -28,6 +28,7 @@ Comprehensive Record of Graduate Studies, Research & Growth</strong><br>
 
 > 持续积累，定期更新中…
 
+- **2026-08-09** 🚀 学习Decoder-only(GPT)和VLM 架构原理；学习强化学习算法，了解DQN、优化DQN、Actor-Critic和PPO实现原理；能源管理系统项目继续推进，根据12月数据集生成全年数据，并划分训练/验证/测试集，跑了三个seed，结果比规则只好一点。优化超参数之后，效果有一定提升，但与DP算法仍有不小差距，感觉可能需要优化一下奖励函数。
 - **2026-07-29** 🚀 BERT整体架构分析与代码实现，了解MLM和NSP工作原理。学习强化学习，了解Sarsa和Q-learning实现原理。能源管理系统项目继续推进，对无策略、rule_controller、final_ems_rule、DP算法做了测评，并确定出强化学习模型输入输出。
 - **2026-07-19** 🚀 Transformer整体架构分析与代码从零实现，《Attention Is All You Need》阅读。能源管理系统项目开始推进，跑通了模型转换、移植、调用的完成流程，测试了板子可以部署的最大模型。
 - **2026-07-09** 🚀 跟随李沐《动手学深度学习》：计算机视觉、循环神经网络，实战kaggle项目：[CIFAR-10](https://www.kaggle.com/c/cifar-10)
